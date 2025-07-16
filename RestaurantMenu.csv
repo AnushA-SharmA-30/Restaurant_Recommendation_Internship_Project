@@ -1,0 +1,101 @@
+menu_id,restaurant_id,dish_name,cuisine,is_vegetarian,is_vegan
+1,1,Bún chả,Vietnamese,True,True
+2,1,Samkeh Harra,Lebanese,True,True
+3,1,Melitzanosalata,Greek,True,True
+4,1,Dragon Whispers,Chinese,True,True
+5,1,Bún chả,Vietnamese,True,True
+6,1,Doro Wat,Ethiopian,True,True
+7,1,Gambas al Ajillo,Spanish,True,True
+8,1,Gaeng Keow Wan Gai,Thai,True,True
+9,1,Tagine with Apricots and Lamb,Moroccan,False,False
+10,1,Jerk Chicken with Mango Salsa,Caribbean,False,False
+11,1,Sole Meunière,French,True,True
+12,1,Nasi Kerabu,Malaysian,True,True
+13,1,Sole Meunière,French,True,True
+14,1,Kimchi Jjigae,Korean,True,True
+15,1,Sole Meunière,French,True,True
+16,2,Samkeh Harra,Lebanese,True,True
+17,2,Smoked Brisket Chili Cheese Fries,American,True,False
+18,2,Cajun Crawfish Boil,American,True,True
+19,2,Jerk Chicken with Mango Salsa,Caribbean,False,False
+20,2,Rendang Daging Sapi,Indonesian,True,True
+21,2,Soupe au Pistou,French,True,True
+22,2,Moqueca de Camarão com Dendê,Brazilian,True,True
+23,2,Grilled Octopus with Lemon and Oregano,Mediterranean,True,True
+24,2,Aji de Gallina,Peruvian,True,True
+25,2,Schweinshaxe,German,True,True
+26,2,Rendang Daging Sapi,Indonesian,True,True
+27,2,Bún Chả Cá Lã Vọng,Vietnamese,True,True
+28,2,Bún chả cá lã vọng,Vietnamese,True,True
+29,2,Kinoko to Nasu no Nimono,Japanese,True,True
+30,2,Bubble and Squeak,British,True,True
+31,2,Awaze Tibs,Ethiopian,True,True
+32,2,Kimchi Jjigae,Korean,True,True
+33,2,Sole Meunière,French,True,True
+34,2,Sole Meunière,French,True,True
+35,2,Doro Wat,Ethiopian,True,True
+36,3,Doro Wat,Ethiopian,True,True
+37,3,Grilled Octopus with Saffron Orzo,Mediterranean,True,True
+38,3,Ispanaklı Börek,Turkish,True,True
+39,3,Bubble and Squeak,British,True,True
+40,3,Sun-Kissed Sea Bass with Saffron Orzo,Mediterranean,True,True
+41,3,Lancashire Hotpot,British,True,True
+42,3,Spicy Muhammara with Walnuts and Pomegranate Molasses,Lebanese,True,True
+43,3,Cajun Crawfish Boil,American,True,True
+44,3,Cumberland Sausage and Ale Pie,British,True,True
+45,3,Dragon Whispers,Chinese,True,True
+46,3,Sate Ayam Madura,Indonesian,True,True
+47,3,Milanesa Napolitana,Argentine,True,True
+48,3,Kimchi Jjigae,Korean,True,True
+49,3,Nasi Kerabu Biru,Malaysian,True,True
+50,3,Malabar Fish Curry,Indian,False,False
+51,3,Doro Wat,Ethiopian,True,True
+52,3,Cajun Crawfish Boil,American,True,True
+53,4,Dragon Whispers,Chinese,True,True
+54,4,Melitzanosalata,Greek,True,True
+55,4,Tinga Poblana,Mexican,True,True
+56,4,Schweinshaxe,German,True,True
+57,4,Carciofi alla Romana,Italian,True,True
+58,4,Saltimbocca alla Romana,Italian,True,True
+59,4,Moqueca de Camarão,Brazilian,True,True
+60,4,Grilled Octopus with Lemon and Oregano,Mediterranean,True,True
+61,4,Melitzanosalata,Greek,True,True
+62,4,Schweinshaxe,German,True,True
+63,4,Tinga Poblana de Camarones,Mexican,True,True
+64,4,Salmone al Limone e Rosmarino,Italian,True,True
+65,4,Jerk Chicken with Mango Salsa,Caribbean,False,False
+66,4,Gambas al Ajillo,Spanish,True,True
+67,4,Rendang Daging Sapi,Indonesian,True,True
+68,5,Grilled Octopus with Saffron Orzo,Mediterranean,True,True
+69,5,Grilled Octopus with Lemon and Oregano,Mediterranean,True,True
+70,5,Cajun Crawfish Boil,American,True,True
+71,5,Grilled Octopus with Lemon and Oregano,Mediterranean,True,True
+72,5,Lancashire Hotpot,British,True,True
+73,5,Rendang Daging Sapi,Indonesian,True,True
+74,6,Doro Wat,Ethiopian,True,True
+75,6,Sun-Kissed Sea Bass with Saffron Orzo,Mediterranean,True,True
+76,6,Jerk Chicken with Mango Salsa,Caribbean,False,False
+77,6,Malabar Fish Curry,Indian,False,False
+78,6,Melitzanosalata,Greek,True,True
+79,6,Soupe au Pistou,French,True,True
+80,6,Schweinshaxe,German,True,True
+81,6,Sakura Mochi Parfait,Japanese,True,True
+82,6,Tinga Poblana,Mexican,True,True
+83,6,Bún Chả Cá Lã Vọng,Vietnamese,True,True
+84,6,Salmone al Limone e Rosmarino,Italian,True,True
+85,6,Rendang Daging Sapi,Indonesian,True,True
+86,6,Melitzanosalata,Greek,True,True
+87,6,Saffron-Infused Kashmiri Lamb Rogan Josh,Indian,False,False
+88,6,Carciofi alla Romana,Italian,True,True
+89,6,Matambre a la Pizza,Argentine,True,True
+90,6,Melitzanosalata,Greek,True,True
+91,6,Shish Barak,Lebanese,True,True
+92,7,Bún Chả Cá Lã Vọng,Vietnamese,True,True
+93,7,Gaeng Keow Wan Gai,Thai,True,True
+94,7,Tagine with Apricots and Almonds,Moroccan,True,True
+95,7,Bún chả cá lã vọng,Vietnamese,True,True
+96,7,Dragon Whispers,Chinese,True,True
+97,7,Shish Barak,Lebanese,True,True
+98,7,Saffron-Infused Kashmiri Pulao,Indian,True,True
+99,7,Grilled Octopus with Lemon and Oregano,Mediterranean,True,True
+100,7,Kimchi Jjigae,Korean,True,True

@@ -1,0 +1,1001 @@
+restaurant_id,name,pet_friendly,latitude,longitude,city,rating
+1,Collins LLC Restaurant,False,18.534174,73.869193,Pune,3.6
+2,"Nguyen, Rodriguez and Stanley Bistro",False,13.049343,80.252596,Chennai,3.8
+3,Cunningham-Mueller Bistro,True,9.978557,76.2973,Kochi,2.6
+4,Garcia and Sons Restaurant,True,31.604329,74.910511,Amritsar,2.7
+5,"King, Collier and Ward Restaurant",False,18.528977,73.829959,Pune,4.3
+6,James Inc Cafe,False,17.395499,78.520327,Hyderabad,4.3
+7,Brown LLC Grill,True,22.578147,88.407404,Kolkata,4.4
+8,King and Sons Restaurant,True,12.983003,77.560395,Bangalore,3.9
+9,Lewis-Clark Restaurant,False,17.397009,78.514223,Hyderabad,2.5
+10,Frank Group Restaurant,False,21.210556,72.855504,Surat,2.2
+11,Johnston PLC Cafe,True,13.047594,80.250782,Chennai,4.8
+12,Roberts and Sons Bistro,False,17.371467,78.491238,Hyderabad,3.0
+13,"Estrada, Harris and Rice Cafe",False,31.660459,74.912732,Amritsar,3.1
+14,Lowe-Ortiz Grill,False,21.152535,72.810784,Surat,2.1
+15,"Powell, Decker and Guerrero Grill",False,22.615039,88.41379,Kolkata,4.0
+16,"Schwartz, Jones and Henderson Cafe",False,11.287131,75.828987,Kozhikode,4.9
+17,Allen-Morris Cafe,True,17.392367,78.504839,Hyderabad,4.2
+18,"Bullock, Mathis and Mcgee Restaurant",False,18.542985,73.832896,Pune,3.9
+19,Gutierrez PLC Restaurant,False,19.122592,72.898369,Mumbai,4.2
+20,Wagner-Reed Bistro,False,17.346866,78.526175,Hyderabad,4.8
+21,Rosario Ltd Bistro,False,22.534472,88.41222,Kolkata,3.6
+22,"Burton, Rodriguez and Graham Bistro",True,18.494158,73.874924,Pune,4.3
+23,Gomez-Ho Cafe,False,13.372367,74.745211,Udupi,4.8
+24,Sanders-Nelson Grill,False,12.978938,77.55741,Bangalore,2.7
+25,Williams-Phillips Cafe,False,13.038931,80.225696,Chennai,4.7
+26,"Mccoy, Bennett and Johnson Cafe",True,8.491097,76.916737,Trivandrum,2.7
+27,Morrison-Long Cafe,False,13.069045,80.27171,Chennai,3.0
+28,Martinez LLC Restaurant,False,19.04998,72.870712,Mumbai,4.3
+29,Chang-Ward Bistro,False,11.249989,75.757987,Kozhikode,2.3
+30,Kent Inc Bistro,False,19.078981,72.831182,Mumbai,2.6
+31,"Curtis, Navarro and Logan Restaurant",False,25.345998,82.994639,Varanasi,3.1
+32,"Parsons, Marshall and Thompson Grill",False,13.313659,74.771059,Udupi,2.5
+33,"Johnson, Garcia and Tucker Cafe",False,31.662706,74.84084,Amritsar,3.6
+34,Scott PLC Bistro,True,21.186103,72.860412,Surat,2.7
+35,Miller-Holloway Restaurant,False,12.314404,76.670559,Mysore,4.6
+36,Smith LLC Cafe,True,13.012298,77.608271,Bangalore,2.1
+37,Palmer-Hughes Grill,True,17.392256,78.443567,Hyderabad,4.9
+38,"Thompson, Saunders and Dickerson Bistro",False,13.020343,77.6262,Bangalore,4.5
+39,White and Sons Restaurant,False,8.486305,76.927006,Trivandrum,4.2
+40,Davis-Gutierrez Cafe,True,8.477411,76.919028,Trivandrum,2.9
+41,"Weber, Ballard and Gibson Cafe",True,9.955139,76.218832,Kochi,3.7
+42,Smith and Sons Grill,True,8.506532,76.975798,Trivandrum,4.2
+43,Little-Moore Cafe,True,25.300091,83.023137,Varanasi,2.5
+44,Cox-Clark Bistro,True,11.28108,75.746174,Kozhikode,4.1
+45,Vasquez-Williams Grill,False,12.965029,77.5972,Bangalore,2.6
+46,"Davis, Duncan and Sutton Cafe",False,25.307686,82.997368,Varanasi,2.1
+47,Garrett Inc Cafe,False,12.268882,76.670032,Mysore,2.3
+48,Rogers-Hansen Bistro,False,22.606479,88.390963,Kolkata,2.5
+49,Lopez-Ross Bistro,False,13.367967,74.785669,Udupi,4.0
+50,Hernandez-Hartman Bistro,False,11.28241,75.765223,Kozhikode,2.8
+51,Rojas-Brooks Grill,False,11.226631,75.791406,Kozhikode,2.7
+52,Lozano Inc Cafe,True,17.394468,78.535698,Hyderabad,3.6
+53,Giles Ltd Cafe,True,31.624759,74.90571,Amritsar,3.9
+54,Taylor-Marks Bistro,False,12.311198,76.645313,Mysore,3.8
+55,Molina-Mann Bistro,False,11.273448,75.755541,Kozhikode,2.1
+56,"Brown, Holloway and Jenkins Cafe",False,22.56207,88.380266,Kolkata,4.7
+57,"Johnson, Martinez and Simmons Grill",False,13.374892,74.725423,Udupi,2.8
+58,Ramirez-Robinson Restaurant,True,21.206235,72.810862,Surat,4.9
+59,"Simmons, Mills and Garcia Restaurant",False,12.882856,74.82514,Mangalore,4.3
+60,Carlson-Hernandez Bistro,False,25.299635,82.962913,Varanasi,2.6
+61,Harmon-Campbell Bistro,True,13.309671,74.757595,Udupi,3.6
+62,Lloyd Group Cafe,True,11.212386,75.807973,Kozhikode,4.0
+63,"Johnson, Meza and Smith Bistro",False,17.404807,78.482519,Hyderabad,3.5
+64,"Davis, Marsh and Johnson Restaurant",False,13.12928,80.251134,Chennai,2.4
+65,Austin PLC Cafe,True,19.053869,72.88452,Mumbai,2.8
+66,Hinton LLC Grill,True,8.507569,76.932515,Trivandrum,4.0
+67,Mcmillan PLC Cafe,False,11.279917,75.757479,Kozhikode,3.3
+68,Villarreal-Williams Grill,False,9.978937,76.229436,Kochi,3.2
+69,Preston Group Grill,False,21.23844,72.880148,Surat,3.9
+70,"Beard, Cook and Gonzalez Bistro",True,11.209327,75.748488,Kozhikode,3.7
+71,"Wong, Daniel and Atkins Bistro",False,18.475583,73.890634,Pune,3.3
+72,"Hammond, Brennan and Gentry Bistro",True,18.563933,73.89397,Pune,4.6
+73,Ross Group Bistro,False,18.491571,73.886358,Pune,2.4
+74,Saunders-Farmer Cafe,False,13.044834,80.281742,Chennai,3.0
+75,Gutierrez PLC Bistro,False,17.348355,78.504957,Hyderabad,2.0
+76,"Schmidt, Patel and Doyle Bistro",False,11.292729,75.829122,Kozhikode,4.4
+77,Mclean-Walker Bistro,True,12.929527,74.814471,Mangalore,3.5
+78,"Terry, Browning and Nguyen Cafe",True,18.478465,73.828946,Pune,2.6
+79,Gutierrez Inc Bistro,False,11.221988,75.80466,Kozhikode,3.6
+80,Lang-Lester Grill,False,25.35245,83.006178,Varanasi,4.7
+81,Smith LLC Bistro,False,25.331117,82.980173,Varanasi,2.6
+82,Wilkins-Hill Grill,False,13.059015,80.309806,Chennai,2.6
+83,Parker Group Bistro,False,11.296922,75.755333,Kozhikode,4.9
+84,Arnold PLC Grill,False,19.069118,72.895688,Mumbai,2.2
+85,Taylor-Mccormick Bistro,False,31.61921,74.8483,Amritsar,3.1
+86,Elliott-Dominguez Grill,False,17.342765,78.481067,Hyderabad,2.9
+87,"Chen, Obrien and Stein Cafe",False,31.672845,74.85219,Amritsar,3.0
+88,"Logan, Allen and Mcintosh Cafe",False,22.550668,88.382321,Kolkata,4.7
+89,"Holland, Edwards and Ross Cafe",False,18.565195,73.860048,Pune,3.8
+90,"Lester, Hamilton and White Restaurant",False,19.048662,72.85436,Mumbai,4.9
+91,"Leonard, Ryan and Wyatt Grill",False,19.074459,72.871599,Mumbai,4.6
+92,"Le, Swanson and Dudley Cafe",False,25.273654,82.978252,Varanasi,2.3
+93,Anderson PLC Bistro,True,18.500821,73.82312,Pune,4.2
+94,"Mcconnell, Payne and Garrett Grill",True,12.928246,77.598394,Bangalore,4.3
+95,Long-Gibbs Bistro,True,18.502335,73.833988,Pune,3.3
+96,"Flores, Crane and Valenzuela Restaurant",True,9.908084,76.306082,Kochi,4.9
+97,Smith-Wilson Cafe,False,12.947021,77.561471,Bangalore,3.3
+98,"Austin, Gates and Molina Bistro",True,22.543296,88.329801,Kolkata,3.9
+99,"Strickland, Young and Montgomery Grill",False,13.085712,80.281333,Chennai,2.7
+100,Newton and Sons Bistro,True,19.032412,72.883268,Mumbai,4.9
+101,Moore LLC Bistro,False,13.367326,74.726123,Udupi,2.7
+102,Hill-Miller Cafe,False,22.564702,88.403197,Kolkata,3.2
+103,Figueroa-Rodgers Restaurant,True,25.269293,82.934645,Varanasi,4.5
+104,Williams-Ochoa Cafe,False,13.071855,80.263084,Chennai,2.0
+105,Adkins-Macias Cafe,False,22.602553,88.367165,Kolkata,2.9
+106,Moore-Bauer Cafe,False,12.881531,74.870336,Mangalore,2.9
+107,Ward-Watts Restaurant,False,25.310782,82.95092,Varanasi,4.7
+108,"Mcgee, Barber and Diaz Cafe",False,13.316389,74.743845,Udupi,4.1
+109,Martinez Inc Cafe,True,13.323511,74.781086,Udupi,2.1
+110,"Smith, Owens and Anderson Bistro",True,13.371491,74.765241,Udupi,4.2
+111,Yang LLC Grill,False,22.551101,88.317952,Kolkata,2.5
+112,Mendez LLC Cafe,False,17.43199,78.488095,Hyderabad,3.6
+113,Martinez Group Grill,True,13.002883,77.630394,Bangalore,3.4
+114,Cook LLC Bistro,False,11.234982,75.796398,Kozhikode,2.4
+115,Brown-Navarro Grill,False,13.086803,80.311449,Chennai,3.8
+116,Marquez-Ellis Grill,False,12.924135,77.544986,Bangalore,2.7
+117,"Wilson, Ramirez and Diaz Restaurant",False,21.174772,72.796593,Surat,3.5
+118,Gomez Ltd Restaurant,False,31.605561,74.895116,Amritsar,2.4
+119,"Key, Wang and Salinas Grill",True,11.214699,75.755605,Kozhikode,2.1
+120,"Sullivan, Hill and Stanley Restaurant",False,13.083174,80.242849,Chennai,2.5
+121,Adams-Kennedy Cafe,False,22.587413,88.367318,Kolkata,4.2
+122,"Murphy, Johnson and Manning Grill",False,17.355313,78.49989,Hyderabad,3.5
+123,Sanders PLC Cafe,True,19.06232,72.841243,Mumbai,3.6
+124,Bailey-James Cafe,True,11.249408,75.820431,Kozhikode,4.5
+125,Martinez Ltd Bistro,False,12.870426,74.813909,Mangalore,4.2
+126,Johnson-Brandt Grill,True,22.603593,88.351043,Kolkata,2.3
+127,Lee LLC Cafe,False,17.403618,78.48814,Hyderabad,3.9
+128,Reed Group Restaurant,True,13.01952,77.636156,Bangalore,4.4
+129,Mendoza-Day Bistro,True,25.349136,82.974539,Varanasi,2.7
+130,Jimenez PLC Bistro,False,12.330839,76.614416,Mysore,2.3
+131,Jensen Inc Bistro,True,18.473637,73.897695,Pune,3.3
+132,Warren Ltd Bistro,True,8.512027,76.941158,Trivandrum,3.5
+133,Kennedy-Sullivan Restaurant,False,12.896364,74.823277,Mangalore,4.6
+134,Porter-Stein Bistro,False,13.097283,80.270061,Chennai,4.0
+135,"Gonzalez, Kent and Lewis Restaurant",False,12.940811,74.814732,Mangalore,4.7
+136,"Nguyen, Chambers and Roberts Bistro",True,12.250813,76.594868,Mysore,4.4
+137,"Suarez, Smith and Mclaughlin Bistro",True,31.638708,74.828509,Amritsar,2.3
+138,"Reed, Hernandez and Fowler Grill",False,17.42319,78.50644,Hyderabad,2.8
+139,Hines-Goodwin Bistro,False,21.172586,72.789629,Surat,3.5
+140,"Luna, Edwards and Flores Grill",True,25.337985,83.021857,Varanasi,2.3
+141,"Gibson, Watson and Barnes Grill",False,21.244338,72.791952,Surat,2.2
+142,Riley-Miller Restaurant,True,9.892009,76.218196,Kochi,3.5
+143,"Blanchard, Drake and Martin Bistro",False,13.057176,80.224009,Chennai,4.1
+144,Patton-Wagner Bistro,True,21.242228,72.797894,Surat,4.4
+145,Rollins-French Cafe,False,18.476271,73.828738,Pune,4.1
+146,Jackson LLC Bistro,False,19.093756,72.85354,Mumbai,2.3
+147,Riley Inc Cafe,False,25.332933,82.93703,Varanasi,4.7
+148,Thompson-James Restaurant,False,9.938203,76.224566,Kochi,2.3
+149,"Smith, Garza and Myers Restaurant",False,19.081446,72.865204,Mumbai,2.9
+150,"Smith, Villarreal and Henderson Bistro",False,9.882063,76.306455,Kochi,4.5
+151,Ward-Roberts Bistro,False,9.927271,76.295833,Kochi,3.7
+152,Villarreal PLC Cafe,False,12.957708,77.632524,Bangalore,3.6
+153,"Graham, Perry and Ray Grill",False,19.073203,72.87585,Mumbai,4.8
+154,Norris and Sons Cafe,False,31.587895,74.914503,Amritsar,4.5
+155,Smith Ltd Cafe,False,13.092749,80.241475,Chennai,3.0
+156,"Flores, Salas and Robinson Grill",False,12.318084,76.599209,Mysore,4.9
+157,Alvarado Group Restaurant,False,11.256624,75.780149,Kozhikode,4.8
+158,Valenzuela Inc Bistro,False,11.265596,75.734479,Kozhikode,3.4
+159,"Anderson, Fields and Torres Grill",False,21.175943,72.84168,Surat,3.1
+160,Delgado and Sons Restaurant,False,31.664101,74.873767,Amritsar,2.0
+161,Jones Group Cafe,False,8.517806,76.979214,Trivandrum,3.6
+162,"Alvarado, Tucker and Espinoza Restaurant",True,25.315893,82.938274,Varanasi,2.3
+163,"Howe, Park and Bond Cafe",False,12.273376,76.611442,Mysore,3.8
+164,Norman-Adams Grill,False,22.553159,88.350685,Kolkata,4.3
+165,Davis-Young Restaurant,False,17.410164,78.469987,Hyderabad,2.2
+166,Montgomery-Scott Grill,False,31.605111,74.849188,Amritsar,2.8
+167,"Morris, Davis and Gray Restaurant",False,25.338406,82.991695,Varanasi,2.1
+168,Hernandez-Sanchez Bistro,False,8.547461,76.920323,Trivandrum,4.3
+169,Pearson-Delgado Bistro,False,31.60733,74.857696,Amritsar,2.9
+170,Weaver-Cherry Cafe,True,12.894517,74.827735,Mangalore,2.8
+171,"Brown, Morgan and Cook Restaurant",False,31.627366,74.83386,Amritsar,4.8
+172,Williams Ltd Cafe,True,21.238059,72.802205,Surat,2.1
+173,Farrell and Sons Cafe,False,17.398243,78.513497,Hyderabad,3.3
+174,Santos Inc Restaurant,False,9.929963,76.255136,Kochi,2.5
+175,Yu Inc Restaurant,False,12.34545,76.66074,Mysore,2.8
+176,"Jones, Jefferson and Howard Grill",False,8.516223,76.962127,Trivandrum,2.5
+177,"Moreno, Thomas and Morrison Cafe",False,21.167931,72.829243,Surat,4.0
+178,Huang-Williams Bistro,False,21.203495,72.840003,Surat,4.0
+179,Cooper-Mata Grill,False,22.556083,88.355342,Kolkata,4.3
+180,Diaz Ltd Restaurant,False,21.209758,72.784265,Surat,3.4
+181,"Cook, Turner and Ford Bistro",False,31.669566,74.846283,Amritsar,2.0
+182,Mccullough Inc Cafe,False,11.244236,75.803521,Kozhikode,2.1
+183,Baker Inc Bistro,False,11.238321,75.745994,Kozhikode,3.3
+184,"Osborne, Jacobs and Williams Cafe",False,9.943181,76.272806,Kochi,2.2
+185,Warren Group Bistro,False,13.087831,80.271519,Chennai,2.7
+186,Harris LLC Grill,False,13.114298,80.291438,Chennai,3.0
+187,Leonard PLC Bistro,False,12.998027,77.579218,Bangalore,3.5
+188,Richardson Group Bistro,True,11.267943,75.821912,Kozhikode,2.4
+189,Dixon-Cruz Grill,False,12.261041,76.640504,Mysore,3.5
+190,Pratt Ltd Grill,False,31.648855,74.830492,Amritsar,3.5
+191,"Jones, Jordan and Daniel Grill",True,8.522645,76.96405,Trivandrum,2.1
+192,Thomas PLC Grill,True,12.955107,74.86827,Mangalore,2.8
+193,"Stout, James and Golden Bistro",True,13.125217,80.288071,Chennai,2.8
+194,Morales-Sandoval Cafe,False,12.92269,77.628601,Bangalore,4.5
+195,"Morales, Garcia and Vasquez Restaurant",False,9.945371,76.256622,Kochi,2.8
+196,Wood-Lopez Cafe,True,8.486008,76.915929,Trivandrum,4.0
+197,Carpenter Group Grill,True,19.098501,72.91229,Mumbai,2.5
+198,Meadows and Sons Cafe,False,19.107388,72.904103,Mumbai,2.1
+199,"Turner, White and Adkins Restaurant",False,11.306374,75.768323,Kozhikode,3.4
+200,Roth-Williams Cafe,False,12.283214,76.677685,Mysore,2.4
+201,"Garza, Smith and Reyes Bistro",True,13.301603,74.731096,Udupi,4.3
+202,Schroeder Group Grill,False,12.943173,77.635432,Bangalore,3.1
+203,Hansen Ltd Cafe,False,12.24693,76.62153,Mysore,4.5
+204,"Schneider, Smith and Barrett Cafe",True,17.342551,78.508979,Hyderabad,3.7
+205,Harris-White Grill,False,12.938618,74.891781,Mangalore,3.8
+206,"Hart, Lewis and Boone Cafe",False,12.27021,76.61166,Mysore,3.0
+207,Joseph-Hayes Bistro,True,18.498639,73.888702,Pune,2.2
+208,"Barr, Brown and Green Bistro",False,11.234499,75.784048,Kozhikode,2.1
+209,"Perez, Smith and Reese Restaurant",False,11.229852,75.823664,Kozhikode,3.2
+210,Moreno Group Bistro,False,25.288064,82.987002,Varanasi,4.0
+211,Fuentes Group Bistro,False,18.556471,73.838827,Pune,4.4
+212,"Garcia, Soto and Duran Bistro",True,12.305128,76.610426,Mysore,3.0
+213,"Espinoza, Thomas and Lee Restaurant",True,11.220375,75.785025,Kozhikode,3.1
+214,Weiss Ltd Bistro,False,19.090096,72.920599,Mumbai,3.3
+215,"Tate, Stevenson and Silva Bistro",True,31.603453,74.901946,Amritsar,3.1
+216,"Fletcher, Lucas and Williams Cafe",False,12.292487,76.604817,Mysore,4.1
+217,Nguyen PLC Bistro,True,12.996742,77.609828,Bangalore,2.8
+218,Austin-Leonard Restaurant,False,12.950539,74.881009,Mangalore,3.6
+219,Hester-Lopez Cafe,False,22.533914,88.411675,Kolkata,2.8
+220,Nguyen-Ashley Restaurant,True,17.338441,78.49841,Hyderabad,2.4
+221,"Mullins, Martinez and Reese Grill",True,13.347945,74.750354,Udupi,3.3
+222,"Barnes, Simon and Harris Grill",False,22.551369,88.362812,Kolkata,2.7
+223,Young Ltd Bistro,False,25.279642,82.946157,Varanasi,4.7
+224,"Garrett, Sandoval and Cortez Grill",True,13.32211,74.753357,Udupi,4.4
+225,Anthony LLC Bistro,True,17.344845,78.497306,Hyderabad,4.2
+226,Armstrong-Gutierrez Cafe,False,9.943674,76.281355,Kochi,2.7
+227,Miller-Perez Bistro,False,12.950457,74.864618,Mangalore,2.4
+228,Gonzales-Martinez Cafe,True,22.536422,88.323585,Kolkata,3.5
+229,"Brock, Hansen and Tucker Restaurant",False,19.116449,72.925442,Mumbai,4.6
+230,Camacho LLC Bistro,False,25.325172,83.001063,Varanasi,3.3
+231,"Barton, Blankenship and Mitchell Bistro",True,19.042322,72.855957,Mumbai,4.6
+232,Johnson-Mathis Grill,True,22.582188,88.401933,Kolkata,3.0
+233,Wilson-Smith Bistro,False,12.881716,74.851665,Mangalore,2.8
+234,Ferguson and Sons Restaurant,False,31.650333,74.869257,Amritsar,2.0
+235,"Burgess, Grant and Pierce Cafe",False,17.430726,78.469277,Hyderabad,4.1
+236,"Finley, Smith and Clark Grill",False,13.079041,80.310836,Chennai,4.7
+237,Chen Ltd Cafe,True,21.154855,72.80304,Surat,3.2
+238,King-Peterson Bistro,False,31.608137,74.899981,Amritsar,4.8
+239,Avery-Malone Restaurant,True,12.267034,76.615164,Mysore,3.5
+240,Jones-Williams Cafe,False,13.292769,74.758579,Udupi,4.4
+241,"Cruz, Hall and Barnett Restaurant",False,12.876317,74.845807,Mangalore,2.2
+242,"Mercer, Hutchinson and Watson Restaurant",False,9.949227,76.221378,Kochi,3.3
+243,"Soto, Haas and Jennings Restaurant",False,13.077122,80.250912,Chennai,2.7
+244,Marsh PLC Grill,False,22.552108,88.360079,Kolkata,2.5
+245,Parker Inc Restaurant,False,12.254401,76.632514,Mysore,4.8
+246,Villegas Inc Restaurant,False,21.178075,72.810631,Surat,3.1
+247,"Woods, Lozano and Ford Bistro",True,13.100628,80.26343,Chennai,4.7
+248,Graham LLC Restaurant,False,31.629493,74.91583,Amritsar,4.1
+249,"Allen, Garza and Anderson Cafe",False,13.306045,74.747089,Udupi,3.0
+250,"Gibbs, Ramirez and Mcintosh Restaurant",False,12.941858,77.610306,Bangalore,4.4
+251,Sanchez-Adams Cafe,False,31.630898,74.843546,Amritsar,2.6
+252,"Garcia, Farley and Taylor Bistro",True,13.32545,74.71402,Udupi,3.5
+253,"Combs, Soto and Farmer Restaurant",False,12.870161,74.890446,Mangalore,4.4
+254,Adams and Sons Grill,True,18.496046,73.885373,Pune,4.0
+255,Mays LLC Grill,True,31.652432,74.849539,Amritsar,2.1
+256,Craig Group Restaurant,False,17.422801,78.512313,Hyderabad,4.3
+257,Collins Ltd Bistro,False,31.591257,74.830118,Amritsar,2.8
+258,Jones Ltd Restaurant,False,17.404034,78.520792,Hyderabad,2.8
+259,Pham Inc Bistro,True,19.035106,72.886575,Mumbai,3.8
+260,Campos Group Cafe,True,25.33218,82.963755,Varanasi,3.8
+261,Mitchell-Hurley Restaurant,False,17.355024,78.48282,Hyderabad,2.8
+262,Clark Group Grill,False,13.30488,74.764169,Udupi,3.0
+263,Martin-Schmitt Bistro,True,9.953703,76.258047,Kochi,2.8
+264,Holloway-Alvarado Grill,False,12.941512,74.903775,Mangalore,2.4
+265,Baxter-Lane Grill,True,9.921496,76.224563,Kochi,3.4
+266,"Johnson, Watkins and Cuevas Restaurant",True,13.384558,74.77682,Udupi,3.5
+267,Reed PLC Restaurant,False,19.118787,72.886185,Mumbai,2.5
+268,"Roberts, Ramos and Johns Restaurant",False,18.473715,73.809431,Pune,3.5
+269,Wilson-Love Grill,False,8.534926,76.933725,Trivandrum,2.7
+270,Irwin-Cox Cafe,True,18.517015,73.824826,Pune,2.7
+271,Gonzalez Inc Restaurant,False,13.088458,80.238067,Chennai,5.0
+272,Riley-Dennis Restaurant,False,9.913326,76.242152,Kochi,3.9
+273,Terry-Flynn Restaurant,False,18.490908,73.870887,Pune,3.0
+274,Vasquez-Stewart Bistro,True,21.211184,72.829921,Surat,3.3
+275,Moore-Smith Restaurant,False,22.540877,88.314301,Kolkata,3.9
+276,"Hernandez, Austin and Herrera Restaurant",False,18.566598,73.818095,Pune,3.0
+277,Johnson-Simpson Bistro,False,8.53463,76.934803,Trivandrum,4.7
+278,Johnson Group Grill,False,12.885974,74.814331,Mangalore,2.9
+279,Powers-Thomas Restaurant,False,19.124759,72.837683,Mumbai,3.1
+280,"Richards, Brooks and Watts Bistro",True,12.92397,74.870727,Mangalore,3.8
+281,Martin-Mcmahon Cafe,True,19.103955,72.920132,Mumbai,4.7
+282,"Hernandez, Tran and Thompson Cafe",False,9.958482,76.225734,Kochi,3.3
+283,Evans-Perez Restaurant,False,19.039069,72.887835,Mumbai,4.6
+284,Bradford-Vaughan Bistro,False,11.302372,75.736338,Kozhikode,4.7
+285,Levine-Davis Restaurant,True,19.071464,72.858467,Mumbai,2.9
+286,Church-Lewis Grill,False,8.499548,76.935813,Trivandrum,2.4
+287,Herring-Mccarthy Restaurant,True,13.094906,80.277941,Chennai,4.6
+288,"Tran, Brown and Estrada Restaurant",False,8.54471,76.904467,Trivandrum,2.9
+289,Davila-House Cafe,False,21.175006,72.864689,Surat,2.9
+290,Doyle-Dalton Bistro,True,13.019375,77.558812,Bangalore,3.9
+291,Johnson-Hartman Restaurant,True,8.566871,76.940676,Trivandrum,2.9
+292,Andrade Inc Cafe,False,11.251529,75.754338,Kozhikode,2.4
+293,"Simpson, Watson and Nichols Restaurant",False,18.481351,73.868258,Pune,4.4
+294,Hoffman-Melton Cafe,False,9.914861,76.265165,Kochi,2.6
+295,"Lewis, Henderson and Peters Cafe",True,22.587465,88.357466,Kolkata,4.5
+296,Stewart-Nichols Cafe,False,13.071815,80.227551,Chennai,3.5
+297,Lowe-Buckley Cafe,False,12.944434,77.639508,Bangalore,3.9
+298,Cook-Gardner Grill,True,9.884251,76.299895,Kochi,2.2
+299,Elliott and Sons Bistro,True,9.962197,76.219039,Kochi,3.4
+300,Hester PLC Bistro,False,21.217254,72.859668,Surat,4.9
+301,Wolf-Villarreal Bistro,False,13.346882,74.709975,Udupi,2.8
+302,"Smith, Garcia and Brown Cafe",True,25.268646,82.982777,Varanasi,2.8
+303,Roman Group Cafe,False,22.566004,88.392161,Kolkata,5.0
+304,Byrd-Solomon Bistro,False,12.951318,77.549494,Bangalore,3.9
+305,Zuniga-Fitzpatrick Bistro,False,31.65392,74.877021,Amritsar,3.1
+306,"Gonzales, Chavez and Owen Restaurant",False,12.328705,76.623581,Mysore,2.9
+307,Burnett Inc Grill,True,12.255316,76.646593,Mysore,2.8
+308,"Combs, Young and Hays Grill",False,31.671821,74.871998,Amritsar,2.9
+309,Garcia Ltd Grill,False,11.261604,75.750744,Kozhikode,3.6
+310,Edwards Group Restaurant,False,19.092603,72.922286,Mumbai,3.9
+311,Miller Inc Cafe,False,21.175097,72.789487,Surat,4.6
+312,"Herrera, Hammond and Torres Grill",False,12.917274,74.831625,Mangalore,3.5
+313,Pacheco and Sons Bistro,False,11.220316,75.737411,Kozhikode,3.1
+314,Clark-Fox Bistro,False,12.954429,74.901718,Mangalore,3.1
+315,Kelly-Taylor Cafe,True,19.068391,72.926545,Mumbai,3.9
+316,Griffin-Jones Grill,False,17.376051,78.488631,Hyderabad,3.7
+317,Guerra-Ortega Bistro,True,18.540092,73.847867,Pune,2.6
+318,Howell-May Restaurant,False,11.21261,75.767694,Kozhikode,2.8
+319,Evans and Sons Grill,True,18.516499,73.906135,Pune,4.5
+320,Riddle Group Bistro,True,13.006361,77.606425,Bangalore,4.5
+321,Garcia-Jackson Bistro,False,8.522421,76.90069,Trivandrum,2.7
+322,"Maynard, Valencia and Waters Restaurant",False,17.365552,78.500907,Hyderabad,3.2
+323,Bass Ltd Grill,True,19.104336,72.876476,Mumbai,3.3
+324,"Lopez, Fields and Morrison Grill",False,8.546329,76.895876,Trivandrum,4.7
+325,Ward LLC Cafe,False,8.50029,76.889829,Trivandrum,4.7
+326,Roth-Warner Cafe,True,31.640077,74.895467,Amritsar,4.6
+327,Williams PLC Cafe,False,13.083307,80.311345,Chennai,3.3
+328,"Hale, Cobb and Jones Grill",True,13.04376,80.265991,Chennai,4.9
+329,"Rodriguez, Smith and Townsend Grill",False,12.31792,76.608385,Mysore,3.9
+330,Mendoza-Brown Restaurant,False,18.5383,73.813814,Pune,3.7
+331,Miller LLC Cafe,True,18.570235,73.852272,Pune,3.4
+332,Rivera-Hawkins Grill,False,21.165854,72.869926,Surat,2.9
+333,Malone PLC Cafe,False,18.483397,73.859965,Pune,2.3
+334,Day Inc Cafe,True,13.064101,80.281831,Chennai,4.5
+335,Mckee Group Bistro,False,25.359054,82.969044,Varanasi,4.9
+336,Johnson Ltd Cafe,True,11.297384,75.767,Kozhikode,2.2
+337,Andrews Group Bistro,False,17.339177,78.449248,Hyderabad,2.7
+338,Green-Merritt Restaurant,True,8.521413,76.961577,Trivandrum,2.2
+339,Lopez Ltd Cafe,False,19.074031,72.84343,Mumbai,3.8
+340,Schmidt PLC Cafe,False,13.09793,80.248554,Chennai,2.6
+341,"Hill, George and Walker Bistro",True,25.270304,82.93526,Varanasi,4.7
+342,Brown Inc Restaurant,False,19.060653,72.896542,Mumbai,4.3
+343,Miller Ltd Bistro,False,22.607415,88.350947,Kolkata,4.9
+344,White Ltd Restaurant,True,13.13164,80.22652,Chennai,3.7
+345,Martin Group Restaurant,True,12.935106,74.82696,Mangalore,3.8
+346,Jones Ltd Bistro,False,22.574151,88.368188,Kolkata,3.0
+347,Ingram PLC Restaurant,False,12.989141,77.634334,Bangalore,2.0
+348,"Palmer, Phillips and Hamilton Restaurant",False,11.209355,75.749616,Kozhikode,4.1
+349,Hamilton Ltd Grill,False,21.223871,72.826175,Surat,2.1
+350,Meyers-Owens Grill,False,12.948283,74.838152,Mangalore,4.9
+351,"Lewis, Costa and Rodriguez Cafe",False,12.919731,74.807091,Mangalore,4.1
+352,Duncan-Hernandez Grill,True,11.237204,75.770704,Kozhikode,2.1
+353,Harris-Peterson Cafe,False,22.587626,88.370955,Kolkata,4.6
+354,Hammond Group Bistro,False,18.496801,73.90527,Pune,2.3
+355,Hensley-Long Bistro,True,12.942769,74.878404,Mangalore,4.4
+356,"Cline, Butler and Carpenter Grill",True,13.321198,74.697406,Udupi,2.4
+357,Gray-Williams Grill,False,25.276574,82.954678,Varanasi,2.4
+358,Kelly-Jensen Cafe,False,13.010116,77.553849,Bangalore,4.2
+359,Brooks Ltd Bistro,False,11.226842,75.808681,Kozhikode,4.9
+360,Johnson-Patel Bistro,False,31.621706,74.882518,Amritsar,4.8
+361,"Leach, Perez and Perez Restaurant",False,22.561215,88.351279,Kolkata,4.1
+362,Ware LLC Grill,False,25.276666,82.960989,Varanasi,4.6
+363,"Washington, Brewer and Young Restaurant",True,17.397607,78.445344,Hyderabad,2.6
+364,Cohen Group Grill,False,18.548255,73.833134,Pune,2.4
+365,Hamilton-Gill Restaurant,False,8.532786,76.90339,Trivandrum,3.5
+366,Gonzales-York Bistro,False,9.939503,76.218329,Kochi,3.1
+367,Garcia-Powell Bistro,True,8.514065,76.902011,Trivandrum,2.3
+368,"Cross, Gonzalez and Williams Grill",False,12.923985,77.633122,Bangalore,3.6
+369,Aguirre Ltd Bistro,False,8.556279,76.933869,Trivandrum,2.9
+370,Clements Ltd Grill,False,12.935813,77.552103,Bangalore,2.8
+371,"Boyd, Kaufman and Williams Restaurant",False,22.524242,88.337471,Kolkata,4.2
+372,"Parker, Smith and Hill Restaurant",False,11.22749,75.794391,Kozhikode,4.5
+373,Shannon-Padilla Cafe,False,13.358004,74.694487,Udupi,4.7
+374,"Ray, Chung and Rodriguez Restaurant",True,13.097442,80.320123,Chennai,2.5
+375,Quinn Group Restaurant,False,25.349081,82.944928,Varanasi,2.4
+376,Maldonado-Estrada Grill,True,13.321626,74.693827,Udupi,3.3
+377,Wood Ltd Cafe,False,25.294825,82.924922,Varanasi,2.1
+378,Johnson LLC Cafe,True,17.392903,78.444515,Hyderabad,3.9
+379,Roberts-Wagner Grill,False,13.015623,77.614326,Bangalore,2.6
+380,"Cruz, Martinez and Galvan Bistro",False,31.606668,74.919411,Amritsar,4.2
+381,Garcia-Galvan Cafe,False,18.499986,73.885292,Pune,4.4
+382,"Stafford, Dawson and Ayers Bistro",False,9.968711,76.233101,Kochi,3.2
+383,"Shepherd, Gentry and Smith Restaurant",False,12.288951,76.671205,Mysore,4.2
+384,Nunez Inc Cafe,False,18.522353,73.853142,Pune,3.3
+385,"Smith, Riley and Reyes Restaurant",False,12.318464,76.660499,Mysore,3.9
+386,Smith and Sons Restaurant,False,8.567856,76.918753,Trivandrum,3.9
+387,"Riley, Pham and Moore Restaurant",False,13.130421,80.278283,Chennai,4.7
+388,"Carey, Mills and Lewis Bistro",False,8.484841,76.928574,Trivandrum,2.8
+389,Thompson-Shields Restaurant,True,8.508903,76.981984,Trivandrum,4.4
+390,Baker Ltd Cafe,False,31.66553,74.84868,Amritsar,2.5
+391,Reed-Sosa Restaurant,False,19.113486,72.873357,Mumbai,3.5
+392,Jones Inc Cafe,False,12.901683,74.839277,Mangalore,4.0
+393,Delgado-Alexander Bistro,False,12.34235,76.62236,Mysore,4.1
+394,Boyd-Gallagher Grill,False,21.146674,72.869109,Surat,5.0
+395,Castillo Ltd Bistro,True,19.053086,72.917633,Mumbai,3.1
+396,"Jacobson, Patel and Armstrong Restaurant",True,13.356075,74.727337,Udupi,3.8
+397,"Wilson, Carroll and Weaver Grill",False,13.382571,74.699726,Udupi,4.2
+398,"Nelson, Mann and Horn Bistro",False,19.069432,72.874308,Mumbai,2.4
+399,Alvarado-Craig Cafe,False,25.272846,82.994189,Varanasi,3.3
+400,Carter Ltd Restaurant,False,25.272362,83.016236,Varanasi,4.9
+401,Smith-Parks Bistro,False,18.511728,73.894532,Pune,4.1
+402,Barber-Turner Bistro,False,11.220826,75.79906,Kozhikode,2.8
+403,Parrish-Everett Cafe,True,18.478635,73.866965,Pune,3.8
+404,"Parker, Tanner and Jackson Bistro",True,18.525828,73.868222,Pune,3.2
+405,"Mcpherson, Baker and Williams Restaurant",False,13.114661,80.307402,Chennai,2.0
+406,Smith-Nichols Bistro,True,22.549839,88.365219,Kolkata,2.3
+407,Anderson Ltd Restaurant,False,25.36346,82.968308,Varanasi,2.8
+408,Conner-Lutz Cafe,False,25.296608,82.959584,Varanasi,3.0
+409,Stephens-Smith Grill,False,9.953714,76.253089,Kochi,2.3
+410,Roach-Delgado Grill,True,12.978738,77.624562,Bangalore,4.3
+411,"Moore, Jackson and Cook Grill",False,8.538062,76.943177,Trivandrum,2.7
+412,"Gonzales, Riley and Hill Cafe",False,18.551599,73.872181,Pune,4.8
+413,"West, Wade and Castillo Restaurant",True,17.343793,78.493108,Hyderabad,3.4
+414,Schmidt Ltd Restaurant,False,12.87793,74.886128,Mangalore,3.6
+415,Holland Inc Restaurant,False,9.967788,76.250149,Kochi,4.4
+416,Joseph-Edwards Grill,False,25.355986,83.000683,Varanasi,2.5
+417,"Craig, Torres and Hill Restaurant",False,8.518138,76.974239,Trivandrum,3.0
+418,"Velazquez, Lozano and Hall Restaurant",False,13.375951,74.736393,Udupi,3.2
+419,Warren PLC Bistro,False,18.489625,73.895336,Pune,4.1
+420,Castillo Inc Cafe,False,12.280495,76.654334,Mysore,2.8
+421,Chen-Lewis Restaurant,False,21.230668,72.830453,Surat,2.8
+422,"Bass, Clark and Edwards Grill",True,12.917035,74.873097,Mangalore,3.6
+423,Ward-King Restaurant,False,25.295724,83.012751,Varanasi,4.9
+424,Patel Inc Restaurant,False,31.636558,74.866021,Amritsar,4.2
+425,Sullivan and Sons Grill,False,12.964167,77.582349,Bangalore,4.8
+426,Griffin-Garcia Cafe,False,12.8878,74.815826,Mangalore,3.0
+427,Wilson-Andrews Bistro,False,8.501078,76.913272,Trivandrum,4.1
+428,Scott PLC Cafe,False,19.069588,72.842071,Mumbai,3.0
+429,"Thomas, Valencia and Jackson Bistro",False,9.966296,76.266654,Kochi,2.3
+430,"Gordon, Leonard and Castillo Restaurant",False,18.495665,73.861816,Pune,2.6
+431,"Jones, Reynolds and Lindsey Grill",False,19.097309,72.845543,Mumbai,2.7
+432,"Shaw, Hill and Williams Grill",True,12.335721,76.658146,Mysore,4.5
+433,Farmer-Parker Restaurant,True,12.98944,77.62336,Bangalore,2.7
+434,Miller PLC Cafe,False,21.164559,72.831775,Surat,2.5
+435,"Jones, Moore and Pacheco Cafe",True,17.406231,78.527843,Hyderabad,2.3
+436,"Bonilla, Escobar and Nelson Restaurant",False,8.519025,76.942523,Trivandrum,4.0
+437,Carey Inc Cafe,True,12.939369,74.809801,Mangalore,4.8
+438,Mcbride Group Cafe,False,18.547003,73.893146,Pune,2.9
+439,Warner Ltd Grill,False,9.899427,76.255932,Kochi,2.4
+440,"Heath, Smith and May Cafe",True,25.279233,82.92652,Varanasi,4.8
+441,Rodriguez-Snyder Bistro,False,11.273791,75.735967,Kozhikode,2.7
+442,Murray-Robertson Cafe,False,9.895837,76.264556,Kochi,3.6
+443,"Garcia, Mccann and Mclaughlin Restaurant",True,8.523991,76.961044,Trivandrum,4.1
+444,Carter-Rogers Bistro,False,13.088887,80.226786,Chennai,3.7
+445,Sandoval-Brewer Bistro,False,13.377883,74.730309,Udupi,4.6
+446,Gonzalez LLC Bistro,True,12.982832,77.604711,Bangalore,3.5
+447,Collins-Brooks Cafe,False,12.944358,74.83935,Mangalore,3.1
+448,"Thomas, Adkins and Henry Bistro",True,25.316378,82.962155,Varanasi,4.5
+449,"Munoz, Nguyen and Brown Grill",False,13.355056,74.722174,Udupi,4.2
+450,"Hernandez, Mcdonald and Berry Cafe",True,19.113236,72.882178,Mumbai,4.0
+451,Mitchell-Jacobs Grill,False,12.918153,74.890187,Mangalore,4.9
+452,Tucker PLC Bistro,False,13.080325,80.276809,Chennai,3.5
+453,Wagner-Williamson Cafe,False,9.956427,76.2983,Kochi,4.7
+454,Ward-Vaughn Cafe,False,12.33968,76.655508,Mysore,4.7
+455,Flowers-Bates Restaurant,False,12.934096,77.563904,Bangalore,4.6
+456,Medina Group Restaurant,True,18.562618,73.828643,Pune,3.6
+457,Davis Inc Restaurant,False,21.174907,72.869466,Surat,3.4
+458,Vance-Alexander Bistro,True,21.223231,72.854015,Surat,3.4
+459,Robinson Group Restaurant,True,12.878962,74.872355,Mangalore,3.2
+460,Little-Lewis Grill,True,22.612347,88.337446,Kolkata,3.6
+461,Barnes-Nelson Cafe,True,12.935866,77.641883,Bangalore,3.8
+462,Howell Ltd Grill,False,8.479375,76.892402,Trivandrum,4.0
+463,Shaffer Inc Restaurant,True,21.168644,72.823189,Surat,3.5
+464,"Molina, Johnson and Grant Bistro",False,12.932052,74.874289,Mangalore,4.5
+465,"Daugherty, Marks and Wilson Restaurant",False,25.32799,82.987889,Varanasi,2.1
+466,Murphy Inc Grill,False,11.28771,75.809727,Kozhikode,3.8
+467,Parker-Brown Restaurant,False,25.298819,83.014104,Varanasi,4.3
+468,Higgins PLC Grill,False,22.621342,88.410441,Kolkata,4.9
+469,Hernandez-Morgan Grill,True,25.360545,83.01296,Varanasi,4.0
+470,"Ellis, Huerta and Watson Bistro",True,25.308196,83.008076,Varanasi,2.6
+471,"Manning, White and Hart Grill",False,19.050309,72.8847,Mumbai,4.2
+472,Krause-Cruz Bistro,True,18.569895,73.84521,Pune,2.1
+473,"Cardenas, Miller and Jones Restaurant",False,13.351657,74.712489,Udupi,4.1
+474,Simon and Sons Cafe,False,19.054796,72.846939,Mumbai,2.1
+475,"Gray, Lawson and Calhoun Restaurant",True,21.153708,72.863304,Surat,4.0
+476,Cunningham LLC Cafe,False,18.471315,73.870797,Pune,4.0
+477,Ray-Austin Cafe,True,12.939308,77.578177,Bangalore,3.0
+478,Nelson Group Restaurant,True,17.429904,78.535117,Hyderabad,3.6
+479,Reilly LLC Cafe,False,13.048037,80.271029,Chennai,2.0
+480,"Tran, Patterson and Benson Grill",True,13.073663,80.306142,Chennai,4.4
+481,Vazquez Group Cafe,True,25.270456,82.949263,Varanasi,3.0
+482,Richardson-Jones Cafe,False,12.940093,77.634532,Bangalore,3.2
+483,Bruce-Holt Restaurant,False,31.642511,74.893937,Amritsar,3.6
+484,"Stuart, Thompson and Gonzalez Restaurant",False,18.484118,73.867419,Pune,3.0
+485,Gonzalez-Scott Grill,False,12.270694,76.603402,Mysore,4.1
+486,"Colon, Davis and Jackson Bistro",False,12.314168,76.606663,Mysore,3.9
+487,"Graham, Bennett and Martinez Grill",False,22.572079,88.356197,Kolkata,4.6
+488,Dixon PLC Grill,False,31.616381,74.863226,Amritsar,4.8
+489,Jenkins and Sons Restaurant,False,12.89838,74.827377,Mangalore,2.5
+490,"Weber, Conway and Hart Bistro",True,19.089816,72.853564,Mumbai,4.5
+491,Tate PLC Cafe,False,12.333292,76.616409,Mysore,2.0
+492,Adams-Adams Restaurant,False,17.425406,78.446889,Hyderabad,4.8
+493,Sharp-Barr Grill,False,31.677329,74.831742,Amritsar,4.2
+494,Hale LLC Grill,False,12.986399,77.637021,Bangalore,4.2
+495,"Gonzalez, Cortez and Franklin Restaurant",False,12.933168,77.588288,Bangalore,4.1
+496,Ferguson and Sons Grill,True,12.912566,74.904255,Mangalore,2.3
+497,Pena-Williamson Cafe,False,25.278713,83.019431,Varanasi,3.7
+498,Stewart-Anderson Bistro,False,19.078389,72.868158,Mumbai,3.0
+499,Curry Inc Bistro,True,13.021352,77.60112,Bangalore,3.7
+500,"Orr, Davenport and Kidd Grill",False,11.282612,75.813285,Kozhikode,4.3
+501,Curry and Sons Restaurant,False,11.248864,75.768843,Kozhikode,4.8
+502,Johnson-Lane Grill,True,25.340236,83.008403,Varanasi,4.0
+503,"Campbell, Bender and Lewis Grill",False,12.968127,77.641026,Bangalore,2.0
+504,"Dudley, Santos and Smith Bistro",False,13.327361,74.737994,Udupi,3.5
+505,Patterson-Simmons Bistro,True,11.211374,75.765808,Kozhikode,2.1
+506,"Ruiz, Meza and Eaton Bistro",False,13.118579,80.282941,Chennai,4.7
+507,Contreras-Shelton Bistro,True,19.088295,72.836397,Mumbai,3.3
+508,Lynch-Moore Bistro,False,17.343379,78.52339,Hyderabad,3.3
+509,"Lewis, Bennett and Wallace Bistro",False,21.215962,72.829536,Surat,2.5
+510,Pitts-Campos Cafe,True,31.603803,74.912483,Amritsar,3.6
+511,Davis Group Cafe,False,12.879116,74.867552,Mangalore,2.8
+512,"Payne, Huerta and Lambert Restaurant",False,13.005189,77.594463,Bangalore,5.0
+513,Barber PLC Cafe,False,25.289955,82.994735,Varanasi,2.6
+514,Austin Inc Restaurant,True,21.170567,72.831077,Surat,2.6
+515,"Watts, Mendoza and Hensley Grill",True,17.421866,78.500458,Hyderabad,4.1
+516,Weeks LLC Cafe,False,21.191158,72.820471,Surat,4.9
+517,Ware Group Cafe,True,12.34156,76.626523,Mysore,3.6
+518,Reid LLC Grill,False,11.21302,75.784449,Kozhikode,3.3
+519,"Munoz, Atkinson and Frazier Bistro",True,13.364729,74.722728,Udupi,3.4
+520,"Richardson, Edwards and Rogers Bistro",False,13.113094,80.228719,Chennai,2.6
+521,"Henry, Thompson and Brown Cafe",True,13.322846,74.74263,Udupi,2.4
+522,Evans Ltd Restaurant,False,12.316968,76.61083,Mysore,4.4
+523,Davis-Stanton Restaurant,True,22.586983,88.378254,Kolkata,2.3
+524,"Williams, Gonzalez and Hill Bistro",False,12.875702,74.846604,Mangalore,5.0
+525,Durham-Newton Cafe,False,31.654341,74.921345,Amritsar,4.4
+526,Dickson-Rowe Grill,False,11.306162,75.82123,Kozhikode,3.6
+527,"Clark, Chambers and Prince Cafe",False,11.225915,75.826172,Kozhikode,2.5
+528,Obrien-Torres Grill,False,12.309547,76.608738,Mysore,4.7
+529,Gomez and Sons Restaurant,False,12.333064,76.608202,Mysore,4.7
+530,Stokes-Aguilar Grill,False,13.376448,74.776743,Udupi,3.7
+531,"Wagner, Wilson and Cervantes Grill",True,13.350443,74.715571,Udupi,4.9
+532,"Tanner, Lin and Henry Restaurant",False,25.306078,83.017013,Varanasi,3.2
+533,"Lloyd, Cole and Bell Bistro",False,25.314565,83.007824,Varanasi,2.7
+534,"Snyder, Garcia and Holloway Cafe",True,21.210143,72.877617,Surat,4.1
+535,Pierce Ltd Grill,False,25.300377,83.002969,Varanasi,4.7
+536,Ramos LLC Grill,False,21.185457,72.858293,Surat,4.6
+537,Baker and Sons Cafe,True,18.549763,73.895612,Pune,4.8
+538,Villarreal Inc Restaurant,False,18.507114,73.898461,Pune,2.4
+539,Wilson Ltd Cafe,False,22.606546,88.402429,Kolkata,4.6
+540,Massey Group Bistro,False,17.385355,78.532051,Hyderabad,2.3
+541,Flores Ltd Bistro,True,8.475376,76.929127,Trivandrum,3.3
+542,Higgins and Sons Bistro,False,9.900188,76.306582,Kochi,4.8
+543,Torres Ltd Bistro,False,17.382662,78.492839,Hyderabad,2.9
+544,Rogers-Gordon Cafe,False,12.265328,76.643403,Mysore,3.6
+545,"Chen, Smith and Nicholson Restaurant",False,18.521722,73.834011,Pune,5.0
+546,Williams-Reid Bistro,False,12.867816,74.831603,Mangalore,3.8
+547,Ramirez-Ortiz Cafe,False,11.220376,75.828306,Kozhikode,2.1
+548,Cox-Roberts Grill,True,25.329671,82.928138,Varanasi,3.3
+549,"Thompson, Brown and Huerta Restaurant",False,11.245478,75.74025,Kozhikode,2.5
+550,Smith Group Restaurant,False,19.08805,72.864815,Mumbai,3.6
+551,Williams-Wilson Bistro,False,9.941406,76.244296,Kochi,3.8
+552,"Harrison, Wright and Nguyen Cafe",False,12.274544,76.68476,Mysore,3.8
+553,Holmes-Bailey Bistro,False,19.059689,72.831255,Mumbai,4.6
+554,Hill-Robbins Grill,True,31.616603,74.865325,Amritsar,3.8
+555,"Clark, Edwards and Branch Bistro",False,18.54546,73.892323,Pune,2.6
+556,Reid-Cruz Cafe,False,17.406982,78.511708,Hyderabad,4.1
+557,Nelson-Harris Grill,False,13.074885,80.283986,Chennai,3.8
+558,Wilson and Sons Restaurant,False,18.549407,73.830811,Pune,3.5
+559,"Baker, May and Green Grill",False,13.037923,80.273839,Chennai,2.5
+560,"Wright, Buck and Dougherty Restaurant",False,12.271948,76.635399,Mysore,2.3
+561,Clark Group Restaurant,False,9.912735,76.270751,Kochi,4.8
+562,"Murphy, Jackson and Glover Grill",False,25.34882,82.996383,Varanasi,4.9
+563,Flowers-Morris Grill,True,21.209118,72.864811,Surat,4.5
+564,"Brady, Oneal and Carlson Grill",False,17.377103,78.453607,Hyderabad,3.1
+565,Kim Group Grill,False,11.275889,75.742372,Kozhikode,2.0
+566,Nguyen Group Grill,False,8.538502,76.931175,Trivandrum,4.1
+567,Clark PLC Bistro,False,8.512718,76.955322,Trivandrum,4.9
+568,Brown Ltd Bistro,False,19.08044,72.840799,Mumbai,3.5
+569,Buck Group Grill,True,25.311334,82.995359,Varanasi,3.0
+570,Pitts PLC Grill,False,19.062336,72.921502,Mumbai,2.2
+571,Stephens Group Bistro,True,8.563505,76.920985,Trivandrum,2.7
+572,"Russell, Carter and Fields Cafe",True,11.217126,75.773676,Kozhikode,4.4
+573,Gomez-Smith Cafe,False,19.100021,72.864651,Mumbai,3.0
+574,Howard LLC Grill,False,13.302895,74.738928,Udupi,2.0
+575,Mclaughlin and Sons Restaurant,True,25.319553,83.00868,Varanasi,4.6
+576,Bailey-Osborne Bistro,False,9.977566,76.29965,Kochi,3.8
+577,Dudley Inc Cafe,False,17.376863,78.495236,Hyderabad,2.3
+578,Holmes LLC Cafe,False,18.560354,73.900323,Pune,4.2
+579,Kelly LLC Restaurant,True,12.950539,77.633515,Bangalore,3.0
+580,Garcia PLC Cafe,False,12.984815,77.620533,Bangalore,3.9
+581,Pineda Ltd Restaurant,True,17.414833,78.471907,Hyderabad,2.7
+582,Scott-Ford Bistro,False,13.362732,74.718844,Udupi,2.9
+583,Cisneros Inc Restaurant,False,21.221915,72.818414,Surat,4.7
+584,Ballard-Martinez Cafe,False,12.946281,74.834655,Mangalore,3.9
+585,"Key, Nash and Manning Bistro",False,21.171501,72.867452,Surat,2.2
+586,Fletcher-Richards Restaurant,False,12.255087,76.613917,Mysore,2.1
+587,Burns-Porter Bistro,False,18.56314,73.833679,Pune,3.2
+588,Lee-Cook Restaurant,False,31.621589,74.885166,Amritsar,2.6
+589,Smith-Stevenson Cafe,False,25.287194,82.933075,Varanasi,3.2
+590,Robbins-Conley Bistro,False,11.260431,75.770101,Kozhikode,3.8
+591,Davis-Washington Restaurant,False,12.870311,74.80803,Mangalore,4.2
+592,Jenkins Group Grill,False,17.364232,78.457922,Hyderabad,4.7
+593,Alexander-Beck Grill,False,12.955721,74.898977,Mangalore,2.8
+594,Murphy Ltd Restaurant,False,13.29685,74.696259,Udupi,2.8
+595,Montes-King Restaurant,True,8.561693,76.976888,Trivandrum,2.1
+596,"Jones, Cisneros and Orr Cafe",False,9.965457,76.229248,Kochi,3.8
+597,Bond Inc Bistro,True,9.923169,76.280444,Kochi,4.8
+598,Gardner-Collins Restaurant,False,12.269169,76.641295,Mysore,3.8
+599,Robertson-Green Bistro,False,13.051366,80.256711,Chennai,2.9
+600,Berry-Stewart Restaurant,True,13.307209,74.761595,Udupi,4.2
+601,Davis Ltd Restaurant,False,22.583344,88.348988,Kolkata,2.6
+602,"Cowan, Boone and Jackson Grill",False,21.15444,72.823652,Surat,3.8
+603,Lynn-Sanchez Cafe,False,18.476832,73.825513,Pune,4.5
+604,Hood and Sons Grill,True,25.340606,83.009957,Varanasi,4.3
+605,"Smith, Fox and Burns Bistro",False,8.489268,76.945476,Trivandrum,4.1
+606,Brooks-Perez Grill,True,19.069439,72.842083,Mumbai,2.3
+607,Brooks-Cervantes Grill,False,17.34553,78.467768,Hyderabad,2.5
+608,Lopez-Grant Cafe,True,12.963964,74.807608,Mangalore,4.7
+609,Smith LLC Bistro,False,12.957868,77.607925,Bangalore,4.2
+610,"Khan, Peterson and Bell Restaurant",False,11.234379,75.745348,Kozhikode,2.6
+611,Jones-Johnson Bistro,True,22.590138,88.379792,Kolkata,4.7
+612,Martinez-Barnes Bistro,False,13.074415,80.231221,Chennai,3.0
+613,"Waters, Ellis and Hardy Cafe",False,13.097537,80.260728,Chennai,4.4
+614,Summers Ltd Cafe,True,12.302309,76.592853,Mysore,2.6
+615,Shelton Inc Restaurant,False,22.578846,88.349637,Kolkata,4.3
+616,Mcguire and Sons Bistro,True,19.074463,72.875487,Mumbai,2.2
+617,Steele Inc Cafe,True,17.421578,78.511061,Hyderabad,4.2
+618,Orr Ltd Restaurant,False,13.110454,80.281292,Chennai,2.7
+619,Mcmahon Ltd Restaurant,False,13.020907,77.604321,Bangalore,4.4
+620,"Mercer, Gonzalez and Calderon Cafe",False,12.94459,74.82384,Mangalore,3.9
+621,Ruiz-Oneal Cafe,False,22.621467,88.401483,Kolkata,4.4
+622,Henry-Davenport Restaurant,False,21.193391,72.814634,Surat,2.2
+623,Richardson Ltd Bistro,True,31.653566,74.869276,Amritsar,3.6
+624,Blake-Young Restaurant,True,8.516289,76.943778,Trivandrum,3.6
+625,"Palmer, Ray and Paul Restaurant",False,13.000043,77.588187,Bangalore,4.1
+626,"Carroll, Salazar and Smith Cafe",True,11.25045,75.809887,Kozhikode,2.1
+627,Brewer-Burton Grill,True,18.551549,73.828956,Pune,2.9
+628,Ellis-Torres Grill,False,13.294721,74.752531,Udupi,5.0
+629,Roberts-Elliott Restaurant,False,13.041696,80.232612,Chennai,4.2
+630,Guerra-Kelly Bistro,False,12.917786,74.814578,Mangalore,2.7
+631,Cummings-Velasquez Cafe,False,19.111103,72.875148,Mumbai,2.2
+632,Roach PLC Grill,True,12.342958,76.635988,Mysore,4.1
+633,"Johnson, Waller and Collier Grill",True,25.343937,82.964342,Varanasi,3.6
+634,"Hamilton, Washington and King Bistro",True,25.320678,82.965131,Varanasi,2.3
+635,Moore-Webster Grill,True,9.944053,76.272253,Kochi,2.5
+636,"Taylor, Webster and Anderson Bistro",False,18.54028,73.906279,Pune,2.7
+637,Costa Group Cafe,False,25.270835,82.953343,Varanasi,3.0
+638,"Barton, Summers and Jackson Bistro",False,21.240285,72.785985,Surat,3.6
+639,Martin-Olson Restaurant,False,21.190659,72.830686,Surat,3.8
+640,Phillips Group Grill,False,21.146201,72.828365,Surat,2.2
+641,"Ramos, Lopez and Collins Bistro",True,9.937004,76.27063,Kochi,4.7
+642,"Thompson, Alexander and Phelps Grill",True,12.313369,76.678626,Mysore,3.0
+643,White Ltd Grill,False,12.269259,76.648045,Mysore,4.9
+644,"Alexander, Keller and Nash Restaurant",False,31.622607,74.880361,Amritsar,2.8
+645,Smith Inc Bistro,False,12.950223,74.813097,Mangalore,4.3
+646,"Black, Bridges and Bell Restaurant",False,12.929845,77.620438,Bangalore,4.8
+647,"Martinez, Robinson and Mathis Grill",True,17.369791,78.523353,Hyderabad,3.3
+648,Gonzales Ltd Bistro,False,22.594712,88.352142,Kolkata,2.9
+649,"Gonzalez, Mcmillan and Huffman Restaurant",False,13.380815,74.76706,Udupi,4.7
+650,Stewart and Sons Bistro,True,13.307064,74.777394,Udupi,4.5
+651,Crawford-Santos Grill,False,18.512007,73.863937,Pune,4.7
+652,"Jordan, Carpenter and Gibson Restaurant",True,25.268002,82.979402,Varanasi,3.1
+653,Ellison Inc Grill,False,9.956255,76.239416,Kochi,3.6
+654,Byrd-Shaffer Grill,False,9.933477,76.275167,Kochi,3.1
+655,Smith and Sons Restaurant,False,8.50251,76.923293,Trivandrum,4.3
+656,Robinson-Miranda Cafe,True,22.530182,88.33886,Kolkata,4.3
+657,Patterson-Preston Bistro,False,31.641426,74.895788,Amritsar,3.5
+658,Wagner-Coleman Restaurant,True,22.574387,88.409799,Kolkata,2.0
+659,"Wilson, Thomas and Rojas Bistro",True,12.309833,76.670667,Mysore,2.0
+660,Beck PLC Cafe,False,31.664759,74.822595,Amritsar,3.7
+661,Warren-Hammond Grill,False,21.241447,72.815873,Surat,3.1
+662,Patterson-Lambert Cafe,False,13.072767,80.263494,Chennai,3.1
+663,"Dyer, Acevedo and Cardenas Restaurant",False,13.005283,77.627884,Bangalore,2.6
+664,"Aguilar, Smith and Tucker Bistro",False,25.296655,82.986934,Varanasi,4.6
+665,Lee-Jordan Grill,False,12.283132,76.650316,Mysore,3.7
+666,Stevenson Group Bistro,False,31.648516,74.858584,Amritsar,3.5
+667,Morrison-Frederick Bistro,False,8.550187,76.92976,Trivandrum,3.1
+668,Walls and Sons Cafe,False,9.917077,76.245972,Kochi,3.3
+669,Contreras LLC Grill,False,12.931173,74.831304,Mangalore,4.8
+670,"Martinez, Wolf and Clark Cafe",False,12.326543,76.632439,Mysore,3.6
+671,"Barnes, Morgan and Thompson Cafe",False,8.510063,76.942464,Trivandrum,3.2
+672,Jones-Koch Restaurant,True,11.216645,75.780842,Kozhikode,3.7
+673,Oliver-Jones Bistro,False,17.39482,78.504741,Hyderabad,4.4
+674,Salinas Ltd Restaurant,False,9.893273,76.294738,Kochi,2.4
+675,"Jackson, Baird and Washington Restaurant",False,31.655812,74.890002,Amritsar,4.5
+676,Haynes Inc Bistro,False,31.676012,74.833705,Amritsar,3.2
+677,Wallace Inc Bistro,True,12.962811,74.872303,Mangalore,2.1
+678,Edwards-Mckenzie Grill,True,31.603648,74.824093,Amritsar,3.2
+679,"Johnson, Townsend and Davis Cafe",True,22.551156,88.315134,Kolkata,4.5
+680,Moss Group Restaurant,True,12.969375,77.551844,Bangalore,2.3
+681,Stuart and Sons Cafe,False,12.308267,76.592391,Mysore,4.1
+682,"Garrett, Lynch and Hudson Restaurant",False,18.52723,73.851723,Pune,3.1
+683,Jackson-Robertson Restaurant,True,31.634737,74.822324,Amritsar,4.3
+684,"Chase, White and Tucker Cafe",True,22.563241,88.368559,Kolkata,3.8
+685,"Russell, Garcia and Nguyen Cafe",False,9.91077,76.282244,Kochi,4.5
+686,"Dean, Jenkins and Garcia Grill",False,18.492778,73.842962,Pune,2.6
+687,"Jackson, Alvarez and Perez Bistro",False,12.912118,74.827313,Mangalore,5.0
+688,Navarro Group Restaurant,False,11.230527,75.800587,Kozhikode,3.4
+689,Steele Ltd Cafe,True,18.499685,73.889238,Pune,2.1
+690,Baker LLC Bistro,True,13.096558,80.247073,Chennai,4.9
+691,Rivers-Arnold Restaurant,False,21.161044,72.787307,Surat,3.8
+692,Peterson PLC Cafe,False,13.084693,80.307649,Chennai,4.3
+693,Bates PLC Grill,True,12.3246,76.598524,Mysore,3.7
+694,"White, Chang and Sullivan Restaurant",False,31.592347,74.831576,Amritsar,2.3
+695,Johnson Ltd Cafe,False,11.24029,75.743622,Kozhikode,4.9
+696,Lopez Inc Restaurant,False,11.226193,75.816436,Kozhikode,2.0
+697,"Lloyd, Martinez and Byrd Grill",True,22.572476,88.360812,Kolkata,4.9
+698,Cohen-Bauer Grill,False,12.916384,74.870476,Mangalore,4.9
+699,"Middleton, Pope and Miller Grill",False,11.297485,75.817746,Kozhikode,4.0
+700,Adams-Jimenez Restaurant,True,13.092009,80.246393,Chennai,4.6
+701,Cook LLC Cafe,False,12.970526,77.621666,Bangalore,4.3
+702,Cunningham-Smith Restaurant,False,17.411825,78.495643,Hyderabad,2.1
+703,Thomas and Sons Grill,False,8.571715,76.938438,Trivandrum,2.4
+704,Mitchell-Patterson Cafe,True,18.471212,73.851863,Pune,2.4
+705,Holt-Daniel Cafe,False,8.533776,76.959131,Trivandrum,4.1
+706,Willis-Alexander Restaurant,False,13.075172,80.239225,Chennai,3.5
+707,"Kim, Williams and Rogers Restaurant",False,21.180248,72.878785,Surat,2.9
+708,Gordon-Taylor Grill,False,13.355689,74.752263,Udupi,2.2
+709,Lester PLC Cafe,True,13.046369,80.291012,Chennai,2.8
+710,Johnson-Johnson Bistro,False,8.482837,76.985135,Trivandrum,4.6
+711,Mendez Ltd Grill,True,13.07775,80.308957,Chennai,2.1
+712,"Benjamin, Wilson and Williams Grill",False,12.312271,76.668586,Mysore,3.3
+713,Thompson Inc Cafe,False,25.302679,82.968289,Varanasi,3.1
+714,Lopez-Cook Grill,False,12.297872,76.626737,Mysore,2.1
+715,"Taylor, Silva and Andersen Cafe",False,21.22565,72.834561,Surat,4.8
+716,Clark Group Bistro,False,22.60792,88.341059,Kolkata,2.9
+717,"Rivas, Davis and Williams Bistro",False,18.547203,73.903476,Pune,2.6
+718,"Castillo, Ramirez and Oliver Cafe",False,8.51155,76.967852,Trivandrum,4.4
+719,"Dominguez, Carter and Mcmahon Restaurant",False,25.278251,82.978531,Varanasi,5.0
+720,"Norman, Peters and Shaw Grill",False,12.896414,74.831824,Mangalore,2.3
+721,Salinas Ltd Bistro,False,12.951307,74.875421,Mangalore,4.2
+722,Blake Ltd Bistro,False,11.293461,75.730499,Kozhikode,2.4
+723,Dixon LLC Restaurant,False,8.498902,76.979722,Trivandrum,2.6
+724,"Cruz, Jones and Garza Grill",False,31.644402,74.83322,Amritsar,2.9
+725,Phillips-Lucas Restaurant,True,9.973669,76.260983,Kochi,2.8
+726,Black PLC Restaurant,True,9.956709,76.230901,Kochi,4.6
+727,Bell Ltd Grill,False,22.598306,88.345582,Kolkata,4.9
+728,Rodriguez Ltd Cafe,False,13.066127,80.309675,Chennai,4.7
+729,Lopez-Cordova Bistro,False,13.083366,80.222568,Chennai,4.5
+730,"Robinson, Kim and Jones Cafe",False,12.291156,76.669373,Mysore,4.3
+731,Wolfe Inc Grill,False,13.054287,80.292973,Chennai,3.4
+732,"Johnson, Green and Carter Restaurant",True,8.54645,76.908216,Trivandrum,3.2
+733,"Peterson, Ryan and Fletcher Restaurant",False,12.94126,77.61378,Bangalore,3.6
+734,"Kim, Krause and Hill Cafe",False,31.625138,74.907297,Amritsar,2.4
+735,"Mcguire, Kelly and Ellis Grill",False,18.539925,73.874431,Pune,4.7
+736,Baird Inc Restaurant,False,19.105799,72.868314,Mumbai,2.5
+737,Aguilar LLC Restaurant,False,12.864922,74.879499,Mangalore,3.6
+738,"Gill, White and Clark Cafe",False,17.417381,78.442084,Hyderabad,2.3
+739,"Smith, Parker and Jones Grill",False,12.907952,74.882435,Mangalore,4.9
+740,Williams and Sons Bistro,False,31.62141,74.863388,Amritsar,3.9
+741,"Hawkins, Carter and Combs Bistro",False,11.307522,75.747069,Kozhikode,2.7
+742,Collins and Sons Cafe,False,31.674881,74.91922,Amritsar,4.7
+743,"Smith, Woods and Dunn Cafe",False,19.052701,72.905654,Mumbai,2.9
+744,"Williams, Whitney and Ayala Grill",True,8.557401,76.964485,Trivandrum,2.8
+745,"Brown, Vaughn and Newton Bistro",True,21.194199,72.819749,Surat,4.6
+746,"Crawford, Walker and Miller Grill",False,25.345548,82.969805,Varanasi,3.9
+747,Anderson Ltd Restaurant,False,13.386211,74.756289,Udupi,2.6
+748,"Hardy, Rhodes and Davis Restaurant",False,8.485212,76.890099,Trivandrum,4.0
+749,Gibson LLC Bistro,False,31.641652,74.834317,Amritsar,4.5
+750,Lopez Ltd Restaurant,False,25.328794,82.937282,Varanasi,3.1
+751,Scott PLC Grill,False,8.530973,76.888765,Trivandrum,2.4
+752,Fox LLC Restaurant,False,19.033609,72.866872,Mumbai,2.1
+753,"Hughes, Johnson and Woods Restaurant",False,13.388093,74.701717,Udupi,2.3
+754,"Butler, Buck and Gilmore Grill",False,12.280425,76.674106,Mysore,3.2
+755,Rush-Barton Restaurant,False,12.866944,74.872152,Mangalore,3.1
+756,Avery-Rodriguez Grill,False,13.047851,80.248368,Chennai,3.1
+757,"Bradley, Alvarez and Henderson Restaurant",True,12.975802,77.633371,Bangalore,4.5
+758,"Ferguson, Martinez and Chavez Restaurant",True,18.539043,73.822574,Pune,3.1
+759,Smith Inc Grill,False,12.91358,74.895321,Mangalore,4.3
+760,"Tate, Perry and Wheeler Restaurant",True,17.396224,78.479204,Hyderabad,4.9
+761,Mullins-Hall Grill,False,9.953908,76.298381,Kochi,3.8
+762,Jackson Inc Bistro,False,25.331175,82.93009,Varanasi,3.4
+763,"Long, Gonzales and Merritt Restaurant",True,25.273428,82.986985,Varanasi,4.8
+764,"James, Underwood and Cohen Cafe",True,9.950993,76.26006,Kochi,2.8
+765,Lewis-Robinson Grill,False,25.347579,83.001554,Varanasi,3.9
+766,Orr and Sons Cafe,False,25.360318,82.994306,Varanasi,4.6
+767,"Medina, Odom and Moore Bistro",False,19.079452,72.846623,Mumbai,5.0
+768,"Walsh, Morrison and Salinas Bistro",False,13.337486,74.720346,Udupi,2.6
+769,Baker Group Bistro,True,13.353247,74.717919,Udupi,4.3
+770,Vasquez-Taylor Bistro,False,8.502308,76.895274,Trivandrum,3.6
+771,Garrett and Sons Bistro,False,11.23879,75.756762,Kozhikode,3.6
+772,"Norton, Martin and Rodgers Restaurant",True,13.305157,74.723095,Udupi,4.5
+773,"Gould, Holmes and Stafford Restaurant",True,18.560845,73.887845,Pune,3.3
+774,"Anderson, Dunn and Hamilton Restaurant",False,22.572337,88.358749,Kolkata,3.8
+775,"Parsons, Campbell and Garcia Restaurant",True,13.335123,74.700537,Udupi,4.6
+776,Patterson-Oliver Grill,False,12.867647,74.880064,Mangalore,4.7
+777,Barnes-Barry Grill,False,31.653589,74.906612,Amritsar,4.2
+778,Freeman-Hughes Cafe,True,17.376155,78.488852,Hyderabad,3.8
+779,"Hawkins, Allen and Wilkerson Grill",False,21.150042,72.837813,Surat,2.0
+780,"Martin, Allen and Mercado Bistro",True,19.046314,72.843233,Mumbai,3.7
+781,"Miller, Collins and Smith Cafe",False,13.3821,74.7286,Udupi,2.2
+782,Scott PLC Cafe,False,8.544772,76.930507,Trivandrum,2.8
+783,Jones Ltd Bistro,False,19.032976,72.876851,Mumbai,3.8
+784,Sanchez-Arias Cafe,True,9.953166,76.273221,Kochi,3.2
+785,"Fields, Gibson and Branch Restaurant",False,19.104102,72.85041,Mumbai,2.9
+786,Allen Inc Bistro,True,8.552674,76.946532,Trivandrum,2.2
+787,Miranda-Rodgers Restaurant,False,22.5616,88.322999,Kolkata,3.0
+788,"Ellis, Myers and Garcia Grill",True,12.286399,76.625756,Mysore,4.7
+789,"Odom, Rose and Wilson Restaurant",False,17.419608,78.493871,Hyderabad,4.8
+790,Williams-Adams Bistro,True,9.974078,76.315858,Kochi,3.2
+791,"Hanson, Harris and Ball Restaurant",True,12.885362,74.850903,Mangalore,2.6
+792,Boyer-Miles Restaurant,True,22.592524,88.343136,Kolkata,3.8
+793,Heath and Sons Grill,False,12.928924,74.885568,Mangalore,5.0
+794,Erickson Group Grill,False,13.333586,74.779225,Udupi,4.9
+795,"Murphy, Torres and Wise Cafe",False,13.00724,77.588066,Bangalore,2.5
+796,Gallagher-Franklin Cafe,False,8.563131,76.98094,Trivandrum,2.3
+797,Henderson-Obrien Restaurant,False,17.403278,78.503215,Hyderabad,3.2
+798,"Decker, Morgan and Reynolds Cafe",False,31.64405,74.82484,Amritsar,2.5
+799,"Martinez, Wheeler and Scott Grill",False,13.332758,74.726452,Udupi,3.3
+800,"Cole, Patel and Reynolds Grill",False,12.93359,77.563095,Bangalore,3.6
+801,Owens Inc Bistro,False,11.241887,75.797224,Kozhikode,4.0
+802,"Wise, Douglas and Dennis Grill",False,12.344674,76.597846,Mysore,2.5
+803,"Black, Hall and Pierce Bistro",False,12.2632,76.607322,Mysore,3.1
+804,Pratt-Trujillo Cafe,True,13.383715,74.777852,Udupi,4.1
+805,Riddle Inc Restaurant,True,13.292199,74.772727,Udupi,4.9
+806,Patel-Long Grill,True,13.339268,74.768591,Udupi,2.8
+807,Wallace-Nichols Restaurant,True,13.126207,80.291281,Chennai,3.9
+808,Reese and Sons Restaurant,False,13.359687,74.699286,Udupi,3.7
+809,Wall PLC Cafe,False,21.1738,72.863628,Surat,4.9
+810,Watson-Wright Restaurant,False,25.33868,82.946231,Varanasi,3.4
+811,Gibson-Robinson Restaurant,False,18.512503,73.889047,Pune,4.3
+812,"Lewis, Dixon and Taylor Grill",False,17.394476,78.468863,Hyderabad,4.1
+813,Arroyo Group Restaurant,True,18.472492,73.873587,Pune,3.7
+814,Sanchez-Pace Restaurant,True,19.088034,72.8624,Mumbai,3.8
+815,"Henderson, Jones and Callahan Bistro",True,18.486632,73.828322,Pune,4.8
+816,Reed-Mills Restaurant,True,12.951335,74.870714,Mangalore,4.1
+817,"Olson, Brown and Moreno Cafe",False,31.664311,74.8913,Amritsar,2.2
+818,Todd LLC Restaurant,True,17.434999,78.515392,Hyderabad,4.6
+819,Ayala-Sanders Grill,False,13.372453,74.713932,Udupi,2.5
+820,Mcdaniel and Sons Restaurant,False,12.978331,77.548651,Bangalore,3.0
+821,Robinson PLC Grill,False,18.509085,73.864529,Pune,4.0
+822,Saunders-Abbott Restaurant,True,11.267125,75.733198,Kozhikode,4.9
+823,Nguyen Inc Grill,True,18.515958,73.849896,Pune,4.0
+824,Graham Group Grill,False,8.518301,76.887618,Trivandrum,4.7
+825,"Hernandez, Campbell and Smith Restaurant",False,25.366777,82.987752,Varanasi,4.8
+826,"Johnson, White and Anderson Grill",True,11.289445,75.811722,Kozhikode,4.2
+827,"Fletcher, Miller and Wilson Grill",True,19.073821,72.853583,Mumbai,2.6
+828,Woods LLC Cafe,False,25.285733,83.007154,Varanasi,3.0
+829,Doyle-Cox Bistro,False,19.050217,72.901932,Mumbai,2.6
+830,Jackson LLC Cafe,False,9.946954,76.296063,Kochi,4.0
+831,"Gibson, Wright and Kerr Bistro",False,12.274744,76.650627,Mysore,4.7
+832,"Foster, Mason and May Cafe",False,19.026087,72.8673,Mumbai,4.5
+833,Carey-Spears Restaurant,True,8.521124,76.887581,Trivandrum,4.9
+834,Lee Group Bistro,False,21.216176,72.784409,Surat,2.9
+835,Johnson Ltd Bistro,False,12.908122,74.895283,Mangalore,2.3
+836,"Hunter, Gray and Campbell Restaurant",False,17.419128,78.455547,Hyderabad,2.6
+837,"Krueger, Rodriguez and Mcfarland Grill",False,13.351488,74.754477,Udupi,3.2
+838,"Lambert, Harvey and Bennett Bistro",False,21.185981,72.851654,Surat,3.5
+839,"Thomas, Shaw and Mccullough Restaurant",True,22.526726,88.39732,Kolkata,2.6
+840,Moran-Richardson Restaurant,True,12.915322,74.806799,Mangalore,4.3
+841,Hernandez-Hernandez Cafe,False,8.541261,76.929777,Trivandrum,2.1
+842,Moore Inc Cafe,False,31.617189,74.879811,Amritsar,4.9
+843,Shaw-Allen Grill,False,8.562947,76.93847,Trivandrum,3.9
+844,Stanley-Russell Cafe,False,22.562531,88.332651,Kolkata,4.0
+845,Robinson-Palmer Cafe,True,9.973416,76.250431,Kochi,2.4
+846,Lawson-Brooks Grill,False,31.612922,74.878337,Amritsar,4.4
+847,Clark-White Cafe,True,13.091003,80.279006,Chennai,4.9
+848,Williams Group Grill,False,12.966027,77.613156,Bangalore,2.2
+849,"Thompson, Alexander and Scott Restaurant",False,19.120764,72.923201,Mumbai,5.0
+850,Reyes-Harrell Cafe,True,9.970994,76.279702,Kochi,2.5
+851,"Mcbride, Holmes and Melton Restaurant",False,25.331414,82.934201,Varanasi,4.1
+852,Houston PLC Grill,False,8.573752,76.955201,Trivandrum,4.9
+853,Gardner Ltd Bistro,True,12.266622,76.604812,Mysore,4.7
+854,Mason Inc Restaurant,False,12.95758,74.836704,Mangalore,4.4
+855,Williams-Gonzalez Bistro,True,13.010784,77.55745,Bangalore,3.9
+856,"Gregory, Smith and Knox Cafe",False,21.208787,72.809413,Surat,2.4
+857,Carroll-Carter Restaurant,True,9.963682,76.309601,Kochi,4.5
+858,Gonzalez-Alexander Restaurant,False,21.167965,72.822173,Surat,4.8
+859,Davis-Jones Bistro,False,31.594999,74.841807,Amritsar,4.5
+860,"Ali, Barker and Valdez Cafe",False,13.052294,80.27403,Chennai,4.3
+861,Reed and Sons Bistro,False,22.56796,88.322813,Kolkata,4.7
+862,Smith LLC Bistro,False,13.329731,74.774721,Udupi,3.3
+863,Coleman-Morgan Restaurant,False,18.532486,73.820213,Pune,2.9
+864,"Gilbert, Carroll and Butler Bistro",False,17.340317,78.512288,Hyderabad,3.1
+865,"Peters, Rodriguez and Harrison Restaurant",False,8.550112,76.906996,Trivandrum,4.4
+866,"Scott, Butler and Hughes Grill",False,9.961823,76.234335,Kochi,3.8
+867,Nichols Group Bistro,False,13.035271,80.226391,Chennai,2.8
+868,"Hicks, Ramos and Holt Grill",False,13.305127,74.743378,Udupi,3.4
+869,"Bailey, Griffith and Oconnell Cafe",True,9.93242,76.267315,Kochi,3.4
+870,Woods PLC Cafe,False,12.336621,76.589427,Mysore,3.2
+871,Cook-Morrison Restaurant,False,21.22439,72.860528,Surat,3.9
+872,Jennings Ltd Bistro,True,25.293455,82.966533,Varanasi,4.1
+873,Mills-Parker Cafe,True,21.17955,72.87178,Surat,3.6
+874,"Ross, Hoover and Hoffman Bistro",False,19.040695,72.829828,Mumbai,4.8
+875,Murray Group Cafe,False,19.059367,72.921954,Mumbai,2.5
+876,"Taylor, Williams and Griffith Bistro",False,12.96582,77.602711,Bangalore,3.0
+877,Hernandez-Harris Cafe,False,13.364172,74.755816,Udupi,4.1
+878,Walsh Ltd Bistro,True,31.655646,74.862967,Amritsar,3.9
+879,Adams Inc Bistro,True,13.359209,74.733406,Udupi,4.8
+880,"Shepherd, Lewis and Robinson Cafe",False,12.893981,74.810642,Mangalore,4.7
+881,Keller Inc Grill,False,13.064248,80.24693,Chennai,5.0
+882,Maddox-Travis Bistro,True,9.953399,76.27198,Kochi,4.0
+883,"Munoz, Martinez and Medina Bistro",False,31.63091,74.904822,Amritsar,4.6
+884,"Hernandez, Alexander and Robinson Restaurant",False,9.887758,76.245965,Kochi,2.1
+885,Bird-Walker Restaurant,False,13.382015,74.720357,Udupi,3.8
+886,Wallace and Sons Bistro,False,22.578062,88.401415,Kolkata,4.9
+887,Garcia PLC Bistro,False,8.480767,76.947079,Trivandrum,2.2
+888,"Ross, Johnson and Watson Cafe",False,12.339058,76.673326,Mysore,4.3
+889,Cherry-Carrillo Grill,False,13.067747,80.221093,Chennai,3.4
+890,Mcbride Inc Cafe,False,31.596152,74.840079,Amritsar,3.6
+891,Dickerson-Dickerson Bistro,False,19.105093,72.859198,Mumbai,4.7
+892,Smith Ltd Bistro,False,31.679702,74.864611,Amritsar,2.8
+893,"Pierce, Johnson and Morgan Grill",False,25.329113,82.998507,Varanasi,3.7
+894,"Reynolds, Tyler and Booker Grill",True,13.312482,74.759905,Udupi,4.6
+895,Woodard-Jarvis Cafe,True,8.512331,76.949663,Trivandrum,3.9
+896,Robinson and Sons Cafe,False,12.885174,74.891284,Mangalore,4.3
+897,"Bolton, Alvarez and Taylor Grill",False,19.067415,72.867046,Mumbai,2.8
+898,Lawson Group Bistro,True,8.535758,76.899872,Trivandrum,3.2
+899,Sanchez-Willis Grill,True,18.508136,73.814215,Pune,4.7
+900,Noble Inc Restaurant,True,12.983109,77.638352,Bangalore,3.9
+901,Davis LLC Cafe,True,13.301029,74.754128,Udupi,2.5
+902,Bishop LLC Cafe,False,19.051091,72.881742,Mumbai,4.9
+903,Luna Ltd Cafe,False,12.86506,74.881896,Mangalore,3.0
+904,Powell-Wells Grill,False,12.314664,76.651794,Mysore,3.5
+905,Russell-Wilson Grill,False,9.957732,76.264983,Kochi,2.7
+906,Chase PLC Grill,True,8.516944,76.905399,Trivandrum,4.0
+907,Chan-Ayala Bistro,False,8.501983,76.944871,Trivandrum,4.6
+908,Washington-Johnson Bistro,False,12.92845,74.838697,Mangalore,4.4
+909,Casey-Sanchez Grill,False,13.073915,80.254279,Chennai,3.5
+910,"Johnson, Russell and Hunter Bistro",False,19.120586,72.853211,Mumbai,3.3
+911,Gibson-Frye Cafe,False,17.395478,78.534964,Hyderabad,4.2
+912,Vega-Gillespie Cafe,False,18.491688,73.809377,Pune,2.5
+913,Bartlett-Savage Restaurant,False,21.209067,72.809594,Surat,3.3
+914,"Clark, Wagner and Fleming Restaurant",True,17.354584,78.473422,Hyderabad,4.3
+915,Galvan Group Grill,False,11.22687,75.744647,Kozhikode,3.8
+916,Johnston and Sons Grill,True,13.292089,74.761211,Udupi,3.8
+917,"Davidson, Green and Alvarado Restaurant",True,31.601684,74.920783,Amritsar,4.2
+918,"Hall, Miles and Johnson Grill",False,31.612342,74.831956,Amritsar,4.3
+919,"Warren, Frost and Walls Bistro",False,8.548043,76.979216,Trivandrum,2.5
+920,"Holmes, Miller and Ellis Cafe",False,18.511032,73.82331,Pune,2.8
+921,Wright-Bridges Bistro,False,13.38635,74.736356,Udupi,4.3
+922,Torres LLC Restaurant,False,19.093749,72.867503,Mumbai,2.2
+923,Mendez-Trevino Grill,False,13.301204,74.733372,Udupi,4.4
+924,"Briggs, Johnson and Hernandez Restaurant",False,13.361317,74.790612,Udupi,3.4
+925,"Diaz, Smith and Barrett Cafe",False,17.348501,78.493264,Hyderabad,4.4
+926,Weiss and Sons Bistro,False,12.885996,74.852537,Mangalore,4.2
+927,Watts Group Cafe,True,9.952384,76.249334,Kochi,2.5
+928,"Lynch, Nelson and Huang Grill",True,12.879579,74.878696,Mangalore,2.1
+929,"Pierce, Allison and Williams Bistro",True,31.62334,74.850783,Amritsar,2.7
+930,Adkins Group Cafe,False,8.563809,76.946627,Trivandrum,3.5
+931,Garrison-Fox Grill,False,12.94705,77.627032,Bangalore,4.3
+932,"Barry, Davis and Howard Restaurant",False,19.08398,72.910771,Mumbai,4.5
+933,Price Group Grill,True,12.268073,76.651249,Mysore,4.9
+934,Ayala Inc Restaurant,False,19.069031,72.869274,Mumbai,4.3
+935,"Castro, Haas and Stewart Grill",False,12.255598,76.608261,Mysore,4.5
+936,Mcclure Inc Grill,False,22.593695,88.323055,Kolkata,2.3
+937,"Poole, Goodwin and Gray Cafe",True,8.536619,76.9824,Trivandrum,3.7
+938,Smith-Campos Bistro,False,22.565362,88.315314,Kolkata,2.7
+939,Benson-Petersen Grill,True,8.558923,76.915945,Trivandrum,4.4
+940,Allison PLC Grill,False,12.317391,76.650737,Mysore,3.4
+941,Stephens Group Restaurant,False,21.184806,72.80173,Surat,2.3
+942,"Stafford, Franklin and Rogers Bistro",True,13.059254,80.222671,Chennai,3.9
+943,Lopez-Powell Grill,False,8.526489,76.896107,Trivandrum,3.2
+944,Cummings and Sons Cafe,False,9.900617,76.306148,Kochi,2.2
+945,"Wright, Weaver and Romero Grill",True,8.529148,76.888188,Trivandrum,3.2
+946,Clarke LLC Grill,False,17.383863,78.468888,Hyderabad,2.0
+947,Williams LLC Restaurant,False,31.659803,74.871882,Amritsar,3.4
+948,"Stokes, Snow and Ruiz Restaurant",True,18.501179,73.820452,Pune,4.9
+949,Valdez-Cole Bistro,True,12.894267,74.819477,Mangalore,3.0
+950,Smith-Horn Cafe,False,25.33581,82.956369,Varanasi,3.3
+951,Ortiz Ltd Grill,False,21.175061,72.841016,Surat,3.3
+952,Casey Ltd Restaurant,True,9.974947,76.28417,Kochi,3.2
+953,Smith-Cohen Bistro,False,25.359948,82.938881,Varanasi,4.8
+954,"Burnett, Johnson and Smith Cafe",False,13.04563,80.28059,Chennai,4.1
+955,"Knight, Avery and Massey Restaurant",True,13.32248,74.701696,Udupi,3.5
+956,Clarke Group Grill,False,12.974796,77.641967,Bangalore,2.7
+957,"Cline, Parsons and Harper Restaurant",False,18.511527,73.863339,Pune,4.4
+958,Woodward PLC Grill,False,18.479153,73.819631,Pune,2.6
+959,Petersen-Salazar Grill,False,8.516434,76.891601,Trivandrum,3.4
+960,Baldwin-Hall Bistro,False,11.274053,75.784686,Kozhikode,2.1
+961,"Hernandez, Wilkins and Fernandez Grill",False,9.887541,76.263877,Kochi,2.8
+962,"Lloyd, Estrada and Hart Restaurant",False,22.575326,88.378012,Kolkata,5.0
+963,Atkinson Inc Grill,False,25.325911,82.949634,Varanasi,3.3
+964,Hays and Sons Restaurant,False,11.302053,75.760514,Kozhikode,4.5
+965,Stephens-Harris Restaurant,True,13.302665,74.694081,Udupi,4.8
+966,Barnett-Shaw Bistro,False,25.322944,82.986878,Varanasi,2.0
+967,Powell Group Restaurant,True,25.355484,82.993021,Varanasi,2.8
+968,Wiley-Knight Grill,False,8.518045,76.949429,Trivandrum,4.2
+969,"Anderson, Cardenas and Robles Grill",False,11.292704,75.748221,Kozhikode,2.6
+970,Weber-Ramos Bistro,False,21.21897,72.806488,Surat,2.1
+971,Swanson Ltd Cafe,False,12.948025,77.544912,Bangalore,2.3
+972,Wade-Harper Grill,False,22.524844,88.361053,Kolkata,5.0
+973,Griffin-Cordova Grill,False,31.679582,74.857784,Amritsar,4.5
+974,King-Buckley Grill,True,11.275155,75.823814,Kozhikode,4.8
+975,Robles and Sons Bistro,False,18.497625,73.820078,Pune,4.7
+976,Luna-Esparza Restaurant,True,13.346088,74.753294,Udupi,2.1
+977,"Ryan, Freeman and Joseph Restaurant",True,17.403144,78.51823,Hyderabad,3.7
+978,Chambers and Sons Cafe,False,19.10713,72.84107,Mumbai,2.4
+979,Daniel and Sons Grill,False,22.615825,88.385543,Kolkata,2.9
+980,Ingram Group Bistro,False,18.491578,73.844207,Pune,4.5
+981,Benitez Group Cafe,True,8.52531,76.963931,Trivandrum,4.9
+982,"Torres, Williams and Hansen Restaurant",False,25.297218,82.957039,Varanasi,2.2
+983,Johnson and Sons Cafe,True,12.880741,74.864617,Mangalore,3.8
+984,Maldonado-Howell Restaurant,False,22.606409,88.389657,Kolkata,3.7
+985,Morris Ltd Cafe,False,8.488055,76.951091,Trivandrum,3.5
+986,Anderson Ltd Grill,False,8.512315,76.909962,Trivandrum,2.8
+987,"Hughes, Haynes and Gray Restaurant",False,13.129866,80.317048,Chennai,3.0
+988,"Hanson, Delacruz and Park Cafe",False,17.387971,78.524123,Hyderabad,3.9
+989,"Wilson, Adams and Gardner Bistro",False,11.226695,75.775312,Kozhikode,3.9
+990,Lee and Sons Bistro,False,8.571018,76.898877,Trivandrum,4.7
+991,Parsons-Yu Grill,False,18.486039,73.861625,Pune,4.2
+992,"Howard, Mcmahon and Fisher Grill",False,13.052113,80.316893,Chennai,2.4
+993,"Myers, Reynolds and Dillon Cafe",False,13.291524,74.716045,Udupi,4.0
+994,Clark-Hernandez Restaurant,False,17.343672,78.441212,Hyderabad,4.7
+995,Perez and Sons Bistro,True,13.066581,80.284234,Chennai,4.2
+996,White-Adams Bistro,False,25.332894,82.941491,Varanasi,4.5
+997,Thomas Inc Restaurant,True,31.627745,74.848407,Amritsar,4.5
+998,Mckinney-Nelson Restaurant,True,17.421102,78.523908,Hyderabad,3.3
+999,Beasley-Wilson Cafe,False,21.147836,72.798615,Surat,2.9
+1000,Blackburn-Jacobson Bistro,False,13.057884,80.313464,Chennai,4.7
